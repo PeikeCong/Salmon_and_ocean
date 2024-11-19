@@ -19,10 +19,10 @@ ocean_forecast_v2.ipynb  # Main modeling and prediction notebook
 supplement_models.ipynb # Alternative models and additional analyses  
 combine_in_out.xslx # cleaned data for modeling
 ODI_Download.gdb # Oceanographic original data
-Nova_Scotia_Fish_Hatchery_Stocking_Records # Salmon data
+Nova_Scotia_Fish_Hatchery_Stocking_Records.csv # Salmon data
 
-```  
 ---
+
 ## Data Sources  
 
 ### Oceanographic Data  
