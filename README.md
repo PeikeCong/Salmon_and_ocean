@@ -19,7 +19,7 @@ This project addresses the urgent need to analyze long-term data and predict fut
 - **Dataset**: [Northwest Atlantic Oceanographic Features](https://open.canada.ca/data/en/dataset/7da1f04f-49b0-4208-a49e-d0597b1f55c6)  
 - **Content**: The Ocean Data Inventory database is an inventory of all of the oceanographic time series data held by the Ocean Science Division at the Bedford Institute of Oceanography. The data archive includes about 5800 current meter and acoustic doppler time series, 4500 coastal temperature time series from thermographs, as well as a small number (200) of tide gauges. Many of the current meters also have temperature and salinity sensors. The area for which there are data is roughly defined as the North Atlantic and Arctic from 30° - 82° N, although there are some minor amounts of data from other parts of the world. The time period is from 1960 to present. The database is updated on a regular basis.
 ### Salmon Hatchery Data  
-- **Dataset**: [[Nova Scotia Fish Hatchery Stocking Records](https://ouvert.canada.ca/data/dataset/e2bc6ab0-eb87-e53d-1a7a-117df0433168](https://ouvert.canada.ca/data/dataset/e2bc6ab0-eb87-e53d-1a7a-117df0433168)  
+- **Dataset**: [Nova Scotia Fish Hatchery Stocking Records](https://ouvert.canada.ca/data/dataset/e2bc6ab0-eb87-e53d-1a7a-117df0433168) 
 - **Content**: Fish stocking records from Nova Scotia fish hatcheries. Includes trout and salmon stocking, size, number, location, stock and growth stage. Records contain both fall and spring distributions. 
 
 ---
