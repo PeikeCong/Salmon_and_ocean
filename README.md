@@ -70,17 +70,10 @@ Future iterations could address these limitations by integrating more comprehens
 ## Repository Structure  
 
 ```
-📂 project-root  
-├── 📂 data  
-│   ├── oceanographic_cleaned.csv  
-│   ├── salmon_hatchery_cleaned.csv
-│   ├── salmon_hatchery_cleaned.csv  
-├── 📂 notebooks  
-│   ├── ocean_forecast_v2.ipynb  # Main modeling and prediction notebook  
-│   ├── supplement_models.ipynb # Alternative models and additional analyses  
-├── 📂 visualizations   
-└── 📜 README.md  # Project documentation (this file)  
-  
+
+│  ocean_forecast_v2.ipynb  # Main modeling and prediction notebook  
+│  supplement_models.ipynb # Alternative models and additional analyses  
+
 ```  
 
 ---
