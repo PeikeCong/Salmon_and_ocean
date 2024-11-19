@@ -1,6 +1,1 @@
-mkdir -p project-root/{data,notebooks,visualizations}
-touch project-root/data/{oceanographic_cleaned.csv,salmon_hatchery_cleaned.csv}
-touch project-root/notebooks/{ocean_forecast_v2.ipynb,supplement_models.ipynb}
-touch project-root/visualizations/{trends_analysis.png,forecast_comparison.png}
-touch project-root/README.md
-touch project-root/requirements.txt
+data/foo.txt
