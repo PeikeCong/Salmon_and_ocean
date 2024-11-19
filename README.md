@@ -13,6 +13,16 @@ This project addresses the urgent need to analyze long-term data and predict fut
 
 ---
 
+## Data and Codes 
+
+ocean_forecast_v2.ipynb  # Main modeling and prediction notebook  
+supplement_models.ipynb # Alternative models and additional analyses  
+combine_in_out.xslx # cleaned data for modeling
+ODI_Download.gdb # Oceanographic original data
+Nova_Scotia_Fish_Hatchery_Stocking_Records # Salmon data
+
+```  
+---
 ## Data Sources  
 
 ### Oceanographic Data  
@@ -64,19 +74,6 @@ To support salmon recovery and resilience:
 - **Data Recency**: The datasets only extend up to 2016, making the results a methodological demonstration rather than directly applicable to current conditions (2024).  
 
 Future iterations could address these limitations by integrating more comprehensive datasets and real-time monitoring to improve the model's accuracy and relevance.  
-
----  
-
-## Repository Structure  
-
-```
-
-│  ocean_forecast_v2.ipynb  # Main modeling and prediction notebook  
-│  supplement_models.ipynb # Alternative models and additional analyses  
-
-```  
-
----
 
 ## Acknowledgments  
 
