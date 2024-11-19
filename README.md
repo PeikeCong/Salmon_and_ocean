@@ -46,9 +46,9 @@ This project addresses the urgent need to analyze long-term data and predict fut
 - **Correlation Analysis**: Identified strong relationships between fish length/width and oceanographic variables.  
 
 ### 3. **Modeling**  
-Tested six time-series models to predict salmon attributes, focusing on the two best-performing methods:  
-- **Prophet**: Used for population prediction, excelling without external variables.  
-- **SARIMA**: Applied to predict length and width, incorporating temperature, salinity, and currents for enhanced accuracy.  
+Six time-series models were evaluated for predicting salmon attributes, with performance compared using a validation set. The two best-performing models were:  
+- **Prophet**: Utilized for population prediction, demonstrating strong performance without external variables.  
+- **SARIMA**: Used PCF and PACF method to find the best hyperparameters. Applied to forecast length and width, incorporating temperature, salinity, and currents as exogenous variables for enhanced accuracy.  
 
 ### 4. **Key Findings**  
 - Low salmon length and width observed in January, with a sharp decline in February.  
